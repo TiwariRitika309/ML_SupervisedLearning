@@ -1,7 +1,7 @@
 <h2>Exploring Supervised Learning</h2>
 
 
-This project is part of my internship at The Sparks Foundation. In this project, I have attempted to build a Linear Regression model to predict scores of students based on the number of hours they put in to study. 
+This project is part of my internship at <a href='https://www.linkedin.com/company/the-sparks-foundation'>The Sparks Foundation</a> (TSF). In this project, I have attempted to build a Linear Regression model to predict scores of students based on the number of hours they put in to study. 
 
 <H5>What does the <a Href='http://bit.ly/w-data'>dataset</a> include?</h5>
 
