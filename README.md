@@ -3,7 +3,7 @@
 
 This project is part of my internship at The Sparks Foundation. In this project, I have attempted to build a Linear Regression model to predict scores of students based on the number of hours they put in to study. 
 
-<H5>What does the dataset include?</h5>
+<H5>What does the <a Href='http://bit.ly/w-data'>dataset</a> include?</h5>
 
 The dataset, as provided by TSF, includes two set of columns. One is 'Hours' that holds values for the number of hours a student studied for and another is 'Score' that holds values for 
 score of each student. The data for individual student is stored by rows. 
